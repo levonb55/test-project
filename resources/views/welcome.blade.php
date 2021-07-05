@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Digital Ocean
+                    Laravel Digital Ocean <mark>Git Test</mark>
                 </div>
 
                 <div class="links">
